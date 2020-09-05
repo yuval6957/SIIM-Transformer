@@ -1,0 +1,21 @@
+{
+    "path":{
+        "data":"/workspace/nvme/",
+        "features":"/workspace/nvme/features/",
+        "train_dicom":"/workspace/nvme/train/",
+        "train_jpg":"/workspace/nvme/jpeg/train/",
+        "train_jpg_small":"/workspace/nvme/jpeg_small/train/",
+        "train_jpg900":"/workspace/nvme/jpeg900/train/",
+        "ISIC_2019":"/workspace/nvme//ISIC_2019/",
+        "train_ISIC_2019":"/workspace/nvme//ISIC_2019/train/",
+        "train_small_ISIC_2019":"/workspace/nvme/ISIC_2019/train_small/",
+        "train_900_ISIC_2019":"/workspace/nvme/ISIC_2019/train900/",
+        "models":"/workspace/hd/models/",
+        "output":"/workspace/hd/outputs/",
+        "test_jpg":"/workspace/nvme/jpeg/test/",
+        "test_jpg_small":"/workspace/nvme/jpeg_small/test/",
+        "test_jpg900":"/workspace/nvme/jpeg900/test/",
+        "test_dicom":"/workspace/nvme/test/"
+        },
+    "model_format":"{}_{}_v{}_s{}.pth"
+}
