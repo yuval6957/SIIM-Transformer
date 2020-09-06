@@ -18,7 +18,7 @@ Members:
 
 
 *   Yuval Reina, Tel - Aviv, Israel, [Yuval.Reina@gmail.com](mailto:Yuval.Reina@gmail.com)
-*   Zahar Chikishev, Tel - Aviv, Israel, zahar.chikishev@gmail.com
+*   Zahar Chikishev, Berlin, Germany, zahar.chikishev@gmail.com
 
 
 ## 2. Background on us:
@@ -48,11 +48,11 @@ I spent about 7H a week on this competition, which sums up to around 70H overall
 
 ### Academic and professional background
 
-M.Sc. in applied math, I have about 10 years of industry experience in software and algorithms development. For the last half a year I have been a full-time kaggler.
+M.Sc. in applied math, I have about 10 years of industry experience in software and algorithms development. For the last year and a half I have been a full-time kaggler.
 
 **Why this competition?**
 
-This competition had generally fitted me well, specifically from the duration point of view, and leveraging my previous experience with image classification from the Recursion Cellular Classification competition, where we also teamed with Yuval and achieved 7th place. 
+This competition had generally fitted me well, leveraging my previous experience with image classification competition, e.g. the Recursion Cellular Classification competition, where we also teamed up with Yuval and achieved 7th place. 
 
 
 ### Time spent on the competition
