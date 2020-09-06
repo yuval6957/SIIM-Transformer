@@ -68,8 +68,7 @@ Our solution is based on two step model + Ensemble:
 
 1. Base model for feature extraction per image
 2. Transformer model - combining all the output features from a patient and predict per image. 
-3.  \
-The 2nd stage also included some post - processing and ensembling.
+3. The 2nd stage also included some post - processing and ensembling.
 
 
 ### Base Model:
@@ -97,7 +96,7 @@ The input to the Transformer models are a stack of features from all images belo
 
 The transformer is a stack of 4 transformer encoder layers with self attention as described in [Attention Is All You Need](https://arxiv.org/abs/1706.03762) [1]. Each transformer encoder layer uses 4 self attention heads. 
 
-The output of the transformer is a N*C, where N is the number of input feature vectors (the number of images) and C is the number of classes (8 in this case). Hance, the transformer predicts the class of each feature vector simultaneously, using the information from all other feature vectors.
+The output of the transformer is a N*C, where N is the number of input feature vectors (the number of images) and C is the number of classes (8 in this case). Hence, the transformer predicts the class of each feature vector simultaneously, using the information from all other feature vectors.
 
 The metadata is added using a “transformer style”, i.e. each parameter is transformed to a vector (size 256) using an embedding matrix and then added to the feature vector. for continuous values (like age) the embedding matrix was replaced by a 2 layer fully connected network.   
 
@@ -132,7 +131,7 @@ At the end we used EfficientNet as it was best when judging accuracy/time
 
 The noisy student version performed better than the normal one.
 
-We also tried different image sizes and ended up using a 400*600 images in most cases, except one were we used 600*900 with the B6 network.
+We also tried different image sizes and ended up using a `400*600` images in most cases, except one were we used `600*900` with the B6 network.
 
 
 
@@ -140,7 +139,7 @@ We also tried different image sizes and ended up using a 400*600 images in most 
 
 As was described above the metadata was processed by a small fully connected nn and its output was concatenated to the output of the EfficientNet network (after removing the original top layer).
 
-We also tried a network without metadata, and used the metadata as targets, i.e. this network predicted the diagnosis, nut also the sex, age and anatomic site. The final predictions (including transformer) when using this approach weren't as good as the metadata as input approach. 
+We also tried a network without metadata, and used the metadata as targets, i.e. this network predicted the diagnosis, but also the sex, age and anatomic site. The final predictions (including transformer) when using this approach weren't as good as the metadata as input approach. 
 
 
 #### Model’s output
@@ -157,7 +156,7 @@ The final layer in this model is a linear layer with 256 inputs and 8 outputs, w
 
 The following augmentations where used while training and inference:
 
-Random resize + rop
+Random resize + crop
 
 Random rotation
 
@@ -218,14 +217,14 @@ Another augmentation is the random grouping as stated above.
 
 The original 2020 competition data is highly unbalanced, there are only 2-3% of positive targets in the train and test data. Although we were able to train the base model using uneven sampling, the best way to get good training was to add the data from ISIC 2019 competition which has a much higher percentage of melanoma images. 
 
-We split the training data to 3 keeping all the images from the same patient in the same fold, and making sure each fold has a similar number of patients with melanoma. The ISIC2019’s data was also split evenly between the folds. The same folds were kept for the base and the transformer models. 
+We split the training data to 3 folds keeping all the images from the same patient in the same fold, and making sure each fold has a similar number of patients with melanoma. The ISIC2019’s data was also split evenly between the folds. The same folds were kept for the base and the transformer models. 
 
 To get more diversity we had 3 different splits using 3 seeds 
 
 
 ### Preprocessing
 
-All images were resized to an aspect ratio of 1:1.5, which was the most popular aspect ratio of the images in the original dataset. We prepared 3 image datasets of sizes 300*450, 400*600, 600*900. Most of the models were trained using the 400*600 dataset, as 300*450 gave inferior results and the 600*900 didn’t improve the results enough.
+All images were resized to an aspect ratio of 1:1.5, which was the most popular aspect ratio of the images in the original dataset. We prepared 3 image datasets of sizes `300*450`, `400*600`, `600*900`. Most of the models were trained using the `400*600` dataset, as 300*450 gave inferior results and the `600*900` didn’t improve the results enough.
 
 For the metadata we had to set the same terminology for the 2020 and 2019 datasets.
 
