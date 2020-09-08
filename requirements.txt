@@ -1,0 +1,784 @@
+# packages in environment at /opt/conda:
+#
+# Name                    Version                   Build  Channel
+_ipyw_jlab_nb_ext_conf    0.1.0                    py36_0  
+_libgcc_mutex             0.1                        main  
+absl-py                   0.9.0                    pypi_0    pypi
+affine                    2.3.0                    pypi_0    pypi
+alabaster                 0.7.12                     py_0  
+albumentations            0.4.3                    pypi_0    pypi
+alembic                   1.4.0                    pypi_0    pypi
+allennlp                  0.9.0                    pypi_0    pypi
+altair                    4.0.1                    pypi_0    pypi
+anaconda-client           1.7.2                    py36_0  
+anaconda-navigator        1.9.7                    py36_0  
+anaconda-project          0.8.4                      py_0  
+annoy                     1.16.3                   pypi_0    pypi
+appdirs                   1.4.3                    pypi_0    pypi
+argh                      0.26.2                   py36_0  
+arrow                     0.15.5                   pypi_0    pypi
+arviz                     0.6.1                    pypi_0    pypi
+asn1crypto                1.3.0                    py36_0  
+astor                     0.8.1                    pypi_0    pypi
+astroid                   2.3.3                    py36_0  
+astropy                   3.2.3            py36h7b6447c_0  
+atomicwrites              1.3.0                    py36_1  
+attrs                     19.3.0                     py_0  
+audioread                 2.1.8                    pypi_0    pypi
+autopep8                  1.4.4                      py_0  
+babel                     2.8.0                      py_0  
+backcall                  0.1.0                    py36_0  
+backports                 1.0                        py_2  
+backports.functools_lru_cache 1.6.1                      py_0  
+backports.os              0.1.1                    py36_0  
+backports.shutil_get_terminal_size 1.0.0                    py36_2  
+backports.tempfile        1.0                        py_1  
+backports.weakref         1.0.post1                  py_1  
+baker                     1.3                      pypi_0    pypi
+basemap                   1.2.0            py36h705c2d8_0  
+bayesian-optimization     1.0.2                    pypi_0    pypi
+bayespy                   0.5.19                   pypi_0    pypi
+bcolz                     1.2.1                    pypi_0    pypi
+beautifulsoup4            4.8.2                    py36_0  
+binutils_impl_linux-64    2.31.1               h6176602_1  
+binutils_linux-64         2.31.1               h6176602_9  
+biopython                 1.76                     pypi_0    pypi
+bitarray                  1.2.1            py36h7b6447c_0  
+bkcharts                  0.2                      py36_0  
+blas                      1.0                         mkl  
+bleach                    3.1.0                      py_0  
+blis                      0.4.1                    pypi_0    pypi
+blosc                     1.15.0               hd408876_0  
+bokeh                     1.4.0                    py36_0  
+boost                     1.65.1                   py36_4  
+boruta                    0.3                      pypi_0    pypi
+boto                      2.49.0                   py36_0  
+boto3                     1.11.15                  pypi_0    pypi
+botocore                  1.14.15                  pypi_0    pypi
+bottleneck                1.3.1            py36hdd07704_0  
+bq-helper                 0.4.1                     dev_0    <develop>
+bqplot                    0.12.3                   pypi_0    pypi
+branca                    0.3.1                    pypi_0    pypi
+brewer2mpl                1.4.1                    pypi_0    pypi
+bzip2                     1.0.6                h14c3975_5  
+ca-certificates           2020.1.1                      0  
+cachetools                4.0.0                    pypi_0    pypi
+cairo                     1.14.12              h8948797_3  
+cairocffi                 1.1.0                    pypi_0    pypi
+cairosvg                  2.4.2                    pypi_0    pypi
+cartopy                   0.17.0                   pypi_0    pypi
+catalogue                 1.0.0                    pypi_0    pypi
+catalyst                  20.2.1                   pypi_0    pypi
+catboost                  0.21                     pypi_0    pypi
+category-encoders         2.1.0                    pypi_0    pypi
+certifi                   2019.11.28               py36_0  
+cesium                    0.9.12                   pypi_0    pypi
+cffi                      1.14.0           py36h2e261b9_0  
+cftime                    1.0.4.2                  pypi_0    pypi
+chainer                   7.1.0                    pypi_0    pypi
+chainer-chemistry         0.7.0                    pypi_0    pypi
+chainercv                 0.13.1                   pypi_0    pypi
+chardet                   3.0.4                 py36_1003  
+chart-studio              1.0.0                    pypi_0    pypi
+cleverhans                3.0.1                    pypi_0    pypi
+click                     7.0                        py_0  
+click-plugins             1.1.1                    pypi_0    pypi
+cliff                     2.18.0                   pypi_0    pypi
+cligj                     0.5.0                    pypi_0    pypi
+cloudpickle               1.2.2                    pypi_0    pypi
+clyent                    1.2.2                    py36_1  
+cmd2                      0.8.9                    pypi_0    pypi
+cmudict                   0.4.4                    pypi_0    pypi
+colorama                  0.4.3                      py_0  
+colorcet                  2.0.2                    pypi_0    pypi
+colorlog                  4.1.0                    pypi_0    pypi
+colorlover                0.3.0                    pypi_0    pypi
+conda                     4.8.2                    py36_0  
+conda-build               3.18.11                  py36_0  
+conda-env                 2.6.0                         1  
+conda-package-handling    1.6.0            py36h7b6447c_0  
+conda-verify              3.4.2                      py_1  
+configargparse            1.0                      pypi_0    pypi
+configparser              4.0.2                    pypi_0    pypi
+confuse                   1.0.0                    pypi_0    pypi
+conllu                    1.3.1                    pypi_0    pypi
+contextily                1.0rc2                   pypi_0    pypi
+contextlib2               0.6.0.post1                py_0  
+convertdate               2.2.0                    pypi_0    pypi
+conx                      3.7.10                   pypi_0    pypi
+coverage                  5.0.3                    pypi_0    pypi
+crc32c                    2.0                      pypi_0    pypi
+cryptography              2.3.1            py36hc365091_0  
+cssselect2                0.2.2                    pypi_0    pypi
+cudatoolkit               10.1.243             h6bb024c_0  
+cufflinks                 0.17.0                   pypi_0    pypi
+cupy-cuda101              7.1.1                    pypi_0    pypi
+curl                      7.61.0               h84994c4_0  
+cvxcanon                  0.1.1                    pypi_0    pypi
+cvxpy                     1.0.25                   pypi_0    pypi
+cycler                    0.10.0                   py36_0  
+cymem                     2.0.3                    pypi_0    pypi
+cysignals                 1.10.2                   pypi_0    pypi
+cython                    0.29.15          py36he6710b0_0  
+cytoolz                   0.10.1           py36h7b6447c_0  
+dask                      2.10.1                     py_0  
+dask-core                 2.10.1                     py_0  
+dask-glm                  0.2.0                    pypi_0    pypi
+dask-ml                   1.2.0                    pypi_0    pypi
+dask-xgboost              0.1.10                   pypi_0    pypi
+dataclasses               0.7                      pypi_0    pypi
+datashader                0.10.0                   pypi_0    pypi
+datashape                 0.5.2                    pypi_0    pypi
+dbus                      1.13.6               h746ee38_0  
+deap                      1.3.1                    pypi_0    pypi
+decorator                 4.4.1                      py_0  
+deepdish                  0.3.6                    pypi_0    pypi
+defusedxml                0.6.0                      py_0  
+delorean                  1.0.0                    pypi_0    pypi
+deprecated                1.2.7                    pypi_0    pypi
+descartes                 1.1.0                    pypi_0    pypi
+diff-match-patch          20181111                   py_0  
+dill                      0.3.1.1                  pypi_0    pypi
+dipy                      1.1.1                    pypi_0    pypi
+distributed               2.10.0                     py_0  
+docker-pycreds            0.4.0                    pypi_0    pypi
+docopt                    0.6.2                    pypi_0    pypi
+docutils                  0.15.2                   pypi_0    pypi
+dora                      0.1                      pypi_0    pypi
+earthengine-api           0.1.213                  pypi_0    pypi
+ecos                      2.0.7.post1              pypi_0    pypi
+editdistance              0.5.3                    pypi_0    pypi
+edward                    1.3.5                    pypi_0    pypi
+eli5                      0.10.1                   pypi_0    pypi
+emoji                     0.5.4                    pypi_0    pypi
+en-core-web-lg            2.2.5                    pypi_0    pypi
+en-core-web-sm            2.2.5                    pypi_0    pypi
+entrypoints               0.3                      py36_0  
+essentia                  2.1b6.dev184             pypi_0    pypi
+et_xmlfile                1.0.1                    py36_0  
+expat                     2.2.6                he6710b0_0  
+fancyimpute               0.5.4                    pypi_0    pypi
+fastai                    1.0.60                   pypi_0    pypi
+fastcache                 1.1.0            py36h7b6447c_0  
+fasteners                 0.14.1                   pypi_0    pypi
+fastfm                    0.2.11                   pypi_0    pypi
+fastprogress              0.2.2                    pypi_0    pypi
+fastrlock                 0.4                      pypi_0    pypi
+fasttext                  0.9.1                    pypi_0    pypi
+fbpca                     1.0                      pypi_0    pypi
+fbprophet                 0.5                      pypi_0    pypi
+feather-format            0.4.0                    pypi_0    pypi
+featuretools              0.13.2                   pypi_0    pypi
+filelock                  3.0.12                     py_0  
+fiona                     1.8.13                   pypi_0    pypi
+fire                      0.3.1                    pypi_0    pypi
+fitter                    1.2.0                    pypi_0    pypi
+flake8                    3.7.9                    py36_0  
+flaky                     3.6.1                    pypi_0    pypi
+flashtext                 2.7                      pypi_0    pypi
+flask                     1.1.1                      py_0  
+flask-cors                3.0.8                    pypi_0    pypi
+folium                    0.10.1                   pypi_0    pypi
+fontconfig                2.13.0               h9420a91_0  
+freetype                  2.9.1                h8a8886c_1  
+fribidi                   1.0.5                h7b6447c_0  
+fsspec                    0.6.2                      py_0  
+ftfy                      5.6                      pypi_0    pypi
+funcsigs                  1.0.2                    pypi_0    pypi
+funcy                     1.14                     pypi_0    pypi
+fury                      0.4.0                    pypi_0    pypi
+future                    0.18.2                   py36_0  
+fuzzywuzzy                0.17.0                   pypi_0    pypi
+gast                      0.2.2                    pypi_0    pypi
+gatspy                    0.3                      pypi_0    pypi
+gcc_impl_linux-64         7.3.0                habb00fd_1  
+gcc_linux-64              7.3.0                h553295d_9  
+geffnet                   0.9.8                    pypi_0    pypi
+gensim                    3.8.1                    pypi_0    pypi
+geographiclib             1.50                     pypi_0    pypi
+geohash                   1.0                      pypi_0    pypi
+geojson                   2.5.0                    pypi_0    pypi
+geopandas                 0.6.3                    pypi_0    pypi
+geoplot                   0.4.0                    pypi_0    pypi
+geopy                     1.21.0                   pypi_0    pypi
+geos                      3.6.2                heeff764_2  
+geoviews                  1.6.1                    pypi_0    pypi
+get_terminal_size         1.0.0                haa9412d_0  
+gevent                    1.4.0            py36h7b6447c_0  
+ggplot                    0.11.5                   pypi_0    pypi
+gitdb2                    2.0.6                    pypi_0    pypi
+gitpython                 3.0.7                    pypi_0    pypi
+glib                      2.56.2               hd408876_0  
+glmnet-py                 0.1.0b2                  pypi_0    pypi
+glob2                     0.7                        py_0  
+gluoncv                   0.6.0                    pypi_0    pypi
+gluonnlp                  0.8.3                    pypi_0    pypi
+gmp                       6.1.2                h6c8ec71_1  
+gmpy2                     2.0.8            py36h10f8cd9_2  
+google-api-core           1.16.0                   pypi_0    pypi
+google-api-python-client  1.7.11                   pypi_0    pypi
+google-auth               1.11.0                   pypi_0    pypi
+google-auth-httplib2      0.0.3                    pypi_0    pypi
+google-auth-oauthlib      0.4.1                    pypi_0    pypi
+google-cloud-automl       0.10.0                   pypi_0    pypi
+google-cloud-bigquery     1.12.1                   pypi_0    pypi
+google-cloud-core         1.3.0                    pypi_0    pypi
+google-cloud-storage      1.25.0                   pypi_0    pypi
+google-pasta              0.1.8                    pypi_0    pypi
+google-resumable-media    0.5.0                    pypi_0    pypi
+googleapis-common-protos  1.51.0                   pypi_0    pypi
+gplearn                   0.4.1                    pypi_0    pypi
+gpxpy                     1.4.0                    pypi_0    pypi
+gql                       0.2.0                    pypi_0    pypi
+graphite2                 1.3.13               h23475e2_0  
+graphql-core              1.1                      pypi_0    pypi
+greenlet                  0.4.15           py36h7b6447c_0  
+grpcio                    1.27.1                   pypi_0    pypi
+gst-plugins-base          1.14.0               hbbd80ab_1  
+gstreamer                 1.14.0               hb453b48_1  
+gxx_impl_linux-64         7.3.0                hdf63c60_1  
+gxx_linux-64              7.3.0                h553295d_9  
+gym                       0.16.0                   pypi_0    pypi
+h2o                       3.28.0.3                 pypi_0    pypi
+h5py                      2.10.0           py36h7918eee_0  
+hallucinate               0.0.1                    pypi_0    pypi
+harfbuzz                  1.8.8                hffaf4a1_0  
+haversine                 2.2.0                    pypi_0    pypi
+hdf5                      1.10.4               hb1b8bf9_0  
+heamy                     0.0.7                    pypi_0    pypi
+heapdict                  1.0.1                      py_0  
+hep-ml                    0.6.0                    pypi_0    pypi
+hmmlearn                  0.2.3                    pypi_0    pypi
+holidays                  0.9.12                   pypi_0    pypi
+holoviews                 1.12.7                   pypi_0    pypi
+hpsklearn                 0.1.0                    pypi_0    pypi
+html5lib                  1.0.1                      py_0  
+htmlmin                   0.1.12                   pypi_0    pypi
+httplib2                  0.17.0                   pypi_0    pypi
+httplib2shim              0.0.3                    pypi_0    pypi
+humanize                  1.0.0                    pypi_0    pypi
+hunspell                  0.5.5                    pypi_0    pypi
+husl                      4.0.3                    pypi_0    pypi
+hyperopt                  0.2.3                    pypi_0    pypi
+hypertools                0.6.2                    pypi_0    pypi
+hypothesis                5.4.1                      py_0  
+ibis-framework            1.2.0                    pypi_0    pypi
+icu                       58.2                 h9c2bf20_1  
+idna                      2.8                      py36_0  
+igraph                    0.7.1             h2166141_1005    conda-forge
+imagecodecs-lite          2019.12.3                pypi_0    pypi
+imagehash                 4.0                      pypi_0    pypi
+imageio                   2.6.1                    py36_0  
+imagesize                 1.2.0                      py_0  
+imbalanced-learn          0.6.1                    pypi_0    pypi
+imgaug                    0.2.6                    pypi_0    pypi
+implicit                  0.4.2                    pypi_0    pypi
+importlib_metadata        1.5.0                    py36_0  
+intel-openmp              2019.3                      199  
+intervaltree              3.0.2                      py_0  
+ipykernel                 5.1.1                    pypi_0    pypi
+ipython                   7.12.0           py36h5ca1d4c_0  
+ipython_genutils          0.2.0                    py36_0  
+ipywidgets                7.5.1                      py_0  
+iso3166                   1.0.1                    pypi_0    pypi
+isort                     4.3.21                   py36_0  
+isoweek                   1.3.3                    pypi_0    pypi
+itsdangerous              1.1.0                      py_0  
+janome                    0.3.10                   pypi_0    pypi
+jax                       0.1.59                   pypi_0    pypi
+jaxlib                    0.1.38                   pypi_0    pypi
+jbig                      2.1                  hdba287a_0  
+jdcal                     1.4.1                      py_0  
+jedi                      0.14.1                   py36_0  
+jeepney                   0.4.2                      py_0  
+jieba                     0.42.1                   pypi_0    pypi
+jinja2                    2.11.1                     py_0  
+jmespath                  0.9.4                    pypi_0    pypi
+joblib                    0.14.1                     py_0  
+jpeg                      9b                   h024ee3a_2  
+json5                     0.9.1                      py_0  
+jsonnet                   0.15.0                   pypi_0    pypi
+jsonpickle                1.2                      pypi_0    pypi
+jsonschema                3.2.0                    py36_0  
+jupyter                   1.0.0                    py36_7  
+jupyter_client            5.3.4                    py36_0  
+jupyter_console           6.1.0                      py_0  
+jupyter_core              4.6.1                    py36_0  
+jupyterlab                1.2.6              pyhf63ae98_0  
+jupyterlab_server         1.0.6                      py_0  
+kaggle-environments       0.1.6                    pypi_0    pypi
+keras                     2.3.1                    pypi_0    pypi
+keras-applications        1.0.8                    pypi_0    pypi
+keras-preprocessing       1.1.0                    pypi_0    pypi
+keras-rcnn                0.0.2                    pypi_0    pypi
+keras-resnet              0.2.0                    pypi_0    pypi
+keras-rl                  0.4.2                    pypi_0    pypi
+keras-tqdm                2.0.1                    pypi_0    pypi
+keyring                   21.1.0                   py36_0  
+kiwisolver                1.1.0            py36he6710b0_0  
+kmapper                   1.2.0                    pypi_0    pypi
+kmeans-smote              0.1.2                    pypi_0    pypi
+kmodes                    0.10.1                   pypi_0    pypi
+knnimpute                 0.1.0                    pypi_0    pypi
+krb5                      1.16.1               hc83ff2d_6  
+langdetect                1.0.7                    pypi_0    pypi
+langid                    1.1.6                    pypi_0    pypi
+lasagne                   0.2.dev1                 pypi_0    pypi
+lazy-object-proxy         1.4.3            py36h7b6447c_0  
+learntools                0.3.4                    pypi_0    pypi
+leven                     1.0.4                    pypi_0    pypi
+libarchive                3.3.3                h7d0bbab_1  
+libboost                  1.65.1               habcd387_4  
+libcurl                   7.61.0               h1ad7b7a_0  
+libedit                   3.1.20181209         hc058e9b_0  
+libffi                    3.2.1                hd88cf55_4  
+libgcc-ng                 8.2.0                hdf63c60_1  
+libgfortran-ng            7.3.0                hdf63c60_0  
+libiconv                  1.15              h516909a_1005    conda-forge
+liblief                   0.9.0                h7725739_2  
+libpng                    1.6.36               hbc83047_0  
+librosa                   0.7.2                    pypi_0    pypi
+libsodium                 1.0.16               h1bed415_0  
+libspatialindex           1.9.3                he6710b0_0  
+libssh2                   1.8.0                h9cfc8f7_4  
+libstdcxx-ng              8.2.0                hdf63c60_1  
+libtiff                   4.0.9                he85c1e1_2  
+libtool                   2.4.6                h7b6447c_5  
+libuuid                   1.0.3                h1bed415_2  
+libxcb                    1.13                 h1bed415_1  
+libxml2                   2.9.9                he19cac6_0  
+libxslt                   1.1.33               h7d1a2b0_0  
+lightfm                   1.15                     pypi_0    pypi
+lightgbm                  2.3.1                    pypi_0    pypi
+lime                      0.1.1.37                 pypi_0    pypi
+line-profiler             3.0.2                    pypi_0    pypi
+llvmlite                  0.31.0           py36hd408876_0  
+lml                       0.0.9                    pypi_0    pypi
+locket                    0.2.0                    py36_1  
+lunardate                 0.2.0                    pypi_0    pypi
+lxml                      4.5.0            py36hefd8a0e_0  
+lz4                       2.1.2                    pypi_0    pypi
+lz4-c                     1.8.1.2              h14c3975_0  
+lzo                       2.10                 h49e0be7_2  
+mako                      1.1.1                    pypi_0    pypi
+mapclassify               2.2.0                    pypi_0    pypi
+marisa-trie               0.7.5                    pypi_0    pypi
+markdown                  3.2                      pypi_0    pypi
+markovify                 0.8.0                    pypi_0    pypi
+markupsafe                1.1.1            py36h7b6447c_0  
+matplotlib                3.0.3            py36h5429711_0  
+matplotlib-venn           0.11.5                   pypi_0    pypi
+mccabe                    0.6.1                    py36_1  
+memory-profiler           0.57.0                   pypi_0    pypi
+mercantile                1.1.2                    pypi_0    pypi
+missingno                 0.4.2                    pypi_0    pypi
+mistune                   0.8.4            py36h7b6447c_0  
+mizani                    0.6.0                    pypi_0    pypi
+mkl                       2019.3                      199  
+mkl-service               2.0.2            py36h7b6447c_0  
+mkl_fft                   1.0.12           py36ha843d7b_0  
+mkl_random                1.0.2            py36hd81dba3_0  
+ml-metrics                0.1.4                    pypi_0    pypi
+mlcrate                   0.2.0                    pypi_0    pypi
+mlens                     0.2.3                    pypi_0    pypi
+mlxtend                   0.17.1                   pypi_0    pypi
+mmh3                      2.5.1                    pypi_0    pypi
+mne                       0.19.2                   pypi_0    pypi
+mnist                     0.2.2                    pypi_0    pypi
+mock                      4.0.1                    pypi_0    pypi
+monotonic                 1.5                      pypi_0    pypi
+more-itertools            8.2.0                      py_0  
+mpc                       1.1.0                h10f8cd9_1  
+mpfr                      4.0.1                hdf1c602_3  
+mpld3                     0.3                      pypi_0    pypi
+mplleaflet                0.0.5                    pypi_0    pypi
+mpmath                    1.1.0                    py36_0  
+msgpack-numpy             0.4.4.3                  pypi_0    pypi
+msgpack-python            0.6.1            py36hfd86e86_1  
+multipledispatch          0.6.0                    py36_0  
+multiprocess              0.70.9                   pypi_0    pypi
+munch                     2.5.0                    pypi_0    pypi
+murmurhash                1.0.2                    pypi_0    pypi
+mxnet-cu101               1.5.1.post0              pypi_0    pypi
+navigator-updater         0.2.1                    py36_0  
+nbconvert                 5.6.1                    py36_0  
+nbformat                  5.0.4                      py_0  
+ncurses                   6.1                  he6710b0_1  
+nervananeon               2.6.0                    pypi_0    pypi
+netcdf4                   1.5.3                    pypi_0    pypi
+networkx                  2.4                        py_0  
+nibabel                   3.0.1                    pypi_0    pypi
+nilearn                   0.6.1                    pypi_0    pypi
+ninja                     1.9.0            py36hfd86e86_0  
+nltk                      3.2.4                    pypi_0    pypi
+nolearn                   0.6.2.dev0               pypi_0    pypi
+nose                      1.3.7                    py36_2  
+notebook                  5.5.0                    pypi_0    pypi
+numba                     0.48.0           py36h0573a6f_0  
+numdifftools              0.9.39                   pypi_0    pypi
+numexpr                   2.6.9            py36h9e4a6bb_0  
+numpy                     1.18.1                   pypi_0    pypi
+numpydoc                  0.9.2                      py_0  
+nvidia-ml-py3             7.352.0                  pypi_0    pypi
+oauthlib                  3.1.0                    pypi_0    pypi
+odfpy                     1.4.1                    pypi_0    pypi
+olefile                   0.46                       py_0  
+onnx                      1.6.0                    pypi_0    pypi
+opencv-python             4.2.0.32                 pypi_0    pypi
+openpyxl                  3.0.3                      py_0  
+openssl                   1.0.2u               h7b6447c_0  
+opt-einsum                3.1.0                    pypi_0    pypi
+optuna                    1.1.0                    pypi_0    pypi
+orderedmultidict          1.0.1                    pypi_0    pypi
+ortools                   7.5.7466                 pypi_0    pypi
+osmnx                     0.10                     pypi_0    pypi
+osqp                      0.6.1                    pypi_0    pypi
+overrides                 2.8.0                    pypi_0    pypi
+packaging                 20.1                       py_0  
+palettable                3.3.0                    pypi_0    pypi
+pandas                    0.25.3                   pypi_0    pypi
+pandas-datareader         0.8.1                    pypi_0    pypi
+pandas-profiling          2.4.0                    pypi_0    pypi
+pandas-summary            0.0.7                    pypi_0    pypi
+pandasql                  0.7.3                    pypi_0    pypi
+pandoc                    1.0.2                    pypi_0    pypi
+pandocfilters             1.4.2                    py36_1  
+pango                     1.42.4               h049681c_0  
+param                     1.9.3                    pypi_0    pypi
+paramnb                   2.0.4                    pypi_0    pypi
+parsimonious              0.8.1                    pypi_0    pypi
+parso                     0.6.1                      py_0  
+partd                     1.1.0                      py_0  
+patchelf                  0.9                  he6710b0_3  
+path                      13.1.0                   py36_0  
+path-py                   12.4.0                   pypi_0    pypi
+path.py                   12.4.0                        0  
+pathlib2                  2.3.5                    py36_0  
+pathos                    0.2.5                    pypi_0    pypi
+pathtools                 0.1.2                      py_1  
+patsy                     0.5.1                    py36_0  
+pbr                       5.4.4                    pypi_0    pypi
+pcre                      8.43                 he6710b0_0  
+pdf2image                 1.12.0                   pypi_0    pypi
+pdpbox                    0.2.0+13.g73c6966          pypi_0    pypi
+pep8                      1.7.1                    py36_0  
+pexpect                   4.8.0                    py36_0  
+phik                      0.9.9                    pypi_0    pypi
+pickleshare               0.7.5                    py36_0  
+pillow                    5.4.1            py36h34e0f95_0  
+pip                       20.0.2                   py36_1  
+pixman                    0.38.0               h7b6447c_0  
+pkginfo                   1.5.0.1                  py36_0  
+plac                      0.9.6                    pypi_0    pypi
+plotly                    4.5.0                    pypi_0    pypi
+plotly-express            0.4.1                    pypi_0    pypi
+plotnine                  0.4.0                    pypi_0    pypi
+pluggy                    0.13.1                   py36_0  
+ply                       3.11                     py36_0  
+polyglot                  16.7.4                   pypi_0    pypi
+portalocker               1.5.2                    pypi_0    pypi
+posix-ipc                 1.0.4                    pypi_0    pypi
+pox                       0.2.7                    pypi_0    pypi
+ppca                      0.0.4                    pypi_0    pypi
+ppft                      1.6.6.1                  pypi_0    pypi
+preprocessing             0.1.13                   pypi_0    pypi
+preshed                   3.0.2                    pypi_0    pypi
+pretrainedmodels          0.7.4                    pypi_0    pypi
+prettytable               0.7.2                    pypi_0    pypi
+progressbar               2.5                      pypi_0    pypi
+progressbar2              3.47.0                   pypi_0    pypi
+proj4                     5.2.0                he6710b0_1  
+prometheus_client         0.7.1                      py_0  
+promise                   2.3                      pypi_0    pypi
+prompt_toolkit            3.0.3                      py_0  
+pronouncing               0.2.0                    pypi_0    pypi
+protobuf                  3.11.3                   pypi_0    pypi
+psutil                    5.6.7            py36h7b6447c_0  
+ptyprocess                0.6.0                    py36_0  
+pudb                      2019.2                   pypi_0    pypi
+py                        1.8.1                      py_0  
+py-boost                  1.65.1           py36hf484d3e_4  
+py-cpuinfo                5.0.0                    pypi_0    pypi
+py-lief                   0.9.0            py36h7725739_2  
+py-lz4framed              0.14.0                   pypi_0    pypi
+py-stringmatching         0.4.1                    pypi_0    pypi
+py-stringsimjoin          0.3.1                    pypi_0    pypi
+pyahocorasick             1.4.0                    pypi_0    pypi
+pyaml                     19.12.0                  pypi_0    pypi
+pyarabic                  0.6.6                    pypi_0    pypi
+pyarrow                   0.16.0                   pypi_0    pypi
+pyasn1                    0.4.8                    pypi_0    pypi
+pyasn1-modules            0.2.8                    pypi_0    pypi
+pyastronomy               0.14.0                   pypi_0    pypi
+pybind11                  2.4.3                    pypi_0    pypi
+pybrain                   0.3.3                    pypi_0    pypi
+pycairo                   1.19.0           py36h2a1e443_0  
+pycodestyle               2.5.0                    py36_0  
+pycosat                   0.6.3            py36h7b6447c_0  
+pycountry                 19.8.18                  pypi_0    pypi
+pycparser                 2.19                       py_0  
+pycrypto                  2.6.1            py36h14c3975_9  
+pyct                      0.4.6                    pypi_0    pypi
+pycuda                    2019.1.2                 pypi_0    pypi
+pycurl                    7.43.0.2         py36hb7f436b_0  
+pydash                    4.7.6                    pypi_0    pypi
+pydicom                   1.4.1                    pypi_0    pypi
+pydocstyle                4.0.1                      py_0  
+pydot                     1.4.1                    pypi_0    pypi
+pyemd                     0.5.1                    pypi_0    pypi
+pyexcel-io                0.5.20                   pypi_0    pypi
+pyexcel-ods               0.5.6                    pypi_0    pypi
+pyfasttext                0.4.6                    pypi_0    pypi
+pyflakes                  2.1.1                    py36_0  
+pyflux                    0.4.15                   pypi_0    pypi
+pyglet                    1.4.10                   pypi_0    pypi
+pygments                  2.5.2                      py_0  
+pykalman                  0.9.5                    pypi_0    pypi
+pykoko                    0.1.8                    pypi_0    pypi
+pyldavis                  2.1.2                    pypi_0    pypi
+pylint                    2.4.4                    py36_0  
+pymagnitude               0.1.120                  pypi_0    pypi
+pymc3                     3.8                      pypi_0    pypi
+pymeeus                   0.3.6                    pypi_0    pypi
+pymongo                   3.10.1                   pypi_0    pypi
+pympler                   0.8                      pypi_0    pypi
+pynvrtc                   9.2                      pypi_0    pypi
+pyocr                     0.7.2                    pypi_0    pypi
+pyodbc                    4.0.30           py36he6710b0_0  
+pyopengl                  3.1.5                    pypi_0    pypi
+pyopenssl                 19.0.0                   py36_0  
+pypandoc                  1.4                      pypi_0    pypi
+pyparsing                 2.4.6                      py_0  
+pypdf                     1.13                     pypi_0    pypi
+pyperclip                 1.7.0                    pypi_0    pypi
+pyprind                   2.11.2                   pypi_0    pypi
+pyproj                    2.4.2.post1              pypi_0    pypi
+pyqt                      5.9.2            py36h05f1152_2  
+pyrsistent                0.15.7           py36h7b6447c_0  
+pysal                     2.1.0                    pypi_0    pypi
+pyshp                     2.1.0                      py_0  
+pysocks                   1.7.1                    py36_0  
+pystan                    2.19.1.1                 pypi_0    pypi
+pytables                  3.5.1            py36h71ec239_0  
+pytagcloud                0.3.5                    pypi_0    pypi
+pytesseract               0.3.2                    pypi_0    pypi
+pytest                    5.0.1                    py36_0  
+pytest-arraydiff          0.3              py36h39e3cac_0  
+pytest-astropy            0.7.0                      py_0  
+pytest-astropy-header     0.1.2                      py_0  
+pytest-cov                2.8.1                    pypi_0    pypi
+pytest-doctestplus        0.5.0                      py_0  
+pytest-mock               2.0.0                    pypi_0    pypi
+pytest-openfiles          0.4.0                      py_0  
+pytest-pylint             0.15.0                   pypi_0    pypi
+pytest-remotedata         0.3.2                    py36_0  
+pytext-nlp                0.1.2                    pypi_0    pypi
+python                    3.6.6                h6e4f718_2  
+python-dateutil           2.8.1                      py_0  
+python-editor             1.0.4                    pypi_0    pypi
+python-graphviz           0.8.4                    pypi_0    pypi
+python-igraph             0.7.1.post7      py36h516909a_0    conda-forge
+python-jsonrpc-server     0.3.4                      py_0  
+python-language-server    0.31.7                   py36_0  
+python-levenshtein        0.12.0                   pypi_0    pypi
+python-libarchive-c       2.8                     py36_13  
+python-louvain            0.13                     pypi_0    pypi
+python-utils              2.3.0                    pypi_0    pypi
+pytools                   2020.1                   pypi_0    pypi
+pytorch-ignite            0.3.0                    pypi_0    pypi
+pytorch-pretrained-bert   0.6.2                    pypi_0    pypi
+pytorch-transformers      1.1.0                    pypi_0    pypi
+pytz                      2019.3                     py_0  
+pyupset                   0.1.1.post7              pypi_0    pypi
+pyviz-comms               0.7.3                    pypi_0    pypi
+pywavelets                1.1.1            py36h7b6447c_0  
+pyxdg                     0.26                       py_0  
+pyyaml                    5.3              py36h7b6447c_0  
+pyzmq                     18.1.1           py36he6710b0_0  
+qdarkstyle                2.8                        py_0  
+qgrid                     1.2.0                    pypi_0    pypi
+qt                        5.9.6                h8703b6f_2  
+qtawesome                 0.6.1                      py_0  
+qtconsole                 4.6.0                      py_1  
+qtpy                      1.9.0                      py_0  
+raccoon                   3.0.0                    pypi_0    pypi
+randomgen                 1.16.6                   pypi_0    pypi
+rasterio                  1.1.2                    pypi_0    pypi
+ray                       0.8.1                    pypi_0    pypi
+readline                  7.0                  h7b6447c_5  
+redis                     3.4.1                    pypi_0    pypi
+regex                     2020.1.8                 pypi_0    pypi
+requests                  2.22.0                   py36_1  
+requests-oauthlib         1.3.0                    pypi_0    pypi
+resampy                   0.2.2                    pypi_0    pypi
+responses                 0.10.9                   pypi_0    pypi
+retrying                  1.3.3                    pypi_0    pypi
+revrand                   0.6.5                    pypi_0    pypi
+rf-perm-feat-import       0.1                      pypi_0    pypi
+rgf-python                3.7.0                    pypi_0    pypi
+ripgrep                   11.0.2               he32d670_0  
+rope                      0.16.0                     py_0  
+rsa                       4.0                      pypi_0    pypi
+rtree                     0.8.3                    pypi_0    pypi
+ruamel_yaml               0.15.87          py36h7b6447c_0  
+s2sphere                  0.2.5                    pypi_0    pypi
+s3fs                      0.4.0                    pypi_0    pypi
+s3transfer                0.3.3                    pypi_0    pypi
+sacred                    0.8.1                    pypi_0    pypi
+sacremoses                0.0.38                   pypi_0    pypi
+safitty                   1.3                      pypi_0    pypi
+sandesh                   0.2                      pypi_0    pypi
+scattertext               0.0.2.58                 pypi_0    pypi
+scikit-image              0.16.2           py36h0573a6f_0  
+scikit-learn              0.22.1                   pypi_0    pypi
+scikit-multilearn         0.2.0                    pypi_0    pypi
+scikit-optimize           0.7.2                    pypi_0    pypi
+scikit-plot               0.3.7                    pypi_0    pypi
+scikit-surprise           1.1.0                    pypi_0    pypi
+scipy                     1.4.1                    pypi_0    pypi
+scs                       2.1.1-2                  pypi_0    pypi
+seaborn                   0.10.0                     py_0  
+secretstorage             3.1.2                    py36_0  
+send2trash                1.5.0                    py36_0  
+sentencepiece             0.1.85                   pypi_0    pypi
+sentry-sdk                0.14.1                   pypi_0    pypi
+setuptools                45.2.0                   py36_0  
+setuptools-git            1.2                      pypi_0    pypi
+shap                      0.34.0                   pypi_0    pypi
+shapely                   1.7.0                    pypi_0    pypi
+shortuuid                 0.5.0                    pypi_0    pypi
+simplegeneric             0.8.1                    py36_2  
+simpleitk                 1.2.4                    pypi_0    pypi
+singledispatch            3.4.0.3                  py36_0  
+sip                       4.19.8           py36hf484d3e_0  
+six                       1.14.0                   py36_0  
+sklearn                   0.0                      pypi_0    pypi
+sklearn-contrib-lightning 0.5.0                    pypi_0    pypi
+sklearn-contrib-py-earth  0.1.0+1.gdde5f89          pypi_0    pypi
+sklearn-pandas            1.8.0                    pypi_0    pypi
+smart-open                1.9.0                    pypi_0    pypi
+smhasher                  0.150.1                  pypi_0    pypi
+smmap2                    2.0.5                    pypi_0    pypi
+snappy                    1.1.7                hbae5bb6_3  
+snowballstemmer           2.0.0                      py_0  
+snuggs                    1.4.7                    pypi_0    pypi
+sortedcollections         1.1.2                    py36_0  
+sortedcontainers          2.1.0                    py36_0  
+soundfile                 0.10.3.post1             pypi_0    pypi
+soupsieve                 1.9.5                    py36_0  
+spacy                     2.2.3                    pypi_0    pypi
+spectral                  0.20                     pypi_0    pypi
+speedml                   0.9.3                    pypi_0    pypi
+sphinx                    2.4.0                      py_0  
+sphinx-rtd-theme          0.2.4                    pypi_0    pypi
+sphinxcontrib             1.0                      py36_1  
+sphinxcontrib-applehelp   1.0.1                      py_0  
+sphinxcontrib-devhelp     1.0.1                      py_0  
+sphinxcontrib-htmlhelp    1.0.2                      py_0  
+sphinxcontrib-jsmath      1.0.1                      py_0  
+sphinxcontrib-qthelp      1.0.2                      py_0  
+sphinxcontrib-serializinghtml 1.1.3                      py_0  
+sphinxcontrib-websupport  1.2.0                      py_0  
+spyder-kernels            1.8.1                    py36_0  
+sqlalchemy                1.3.13           py36h7b6447c_0  
+sqlite                    3.31.1               h7b6447c_0  
+sqlparse                  0.3.0                    pypi_0    pypi
+squarify                  0.4.3                    pypi_0    pypi
+srsly                     1.0.1                    pypi_0    pypi
+statsmodels               0.11.0           py36h7b6447c_0  
+stemming                  1.0.1                    pypi_0    pypi
+stevedore                 1.32.0                   pypi_0    pypi
+stop-words                2018.7.23                pypi_0    pypi
+stopit                    1.1.2                    pypi_0    pypi
+subprocess32              3.5.4                    pypi_0    pypi
+svgwrite                  1.3.1                    pypi_0    pypi
+sympy                     1.5.1                    py36_0  
+tbb                       2019.9               hc9558a2_1    conda-forge
+tblib                     1.6.0                      py_0  
+tensorboard               2.1.0                    pypi_0    pypi
+tensorboardx              2.0                      pypi_0    pypi
+tensorflow                2.1.0                    pypi_0    pypi
+tensorflow-estimator      2.1.0                    pypi_0    pypi
+tensorflow-hub            0.7.0                    pypi_0    pypi
+tensorflow-probability    0.9.0                    pypi_0    pypi
+tensorforce               0.5.3                    pypi_0    pypi
+tensorpack                0.9.8                    pypi_0    pypi
+termcolor                 1.1.0                    pypi_0    pypi
+terminado                 0.8.3                    py36_0  
+terminalplot              0.3.0                    pypi_0    pypi
+testpath                  0.4.4                      py_0  
+textblob                  0.15.3                   pypi_0    pypi
+tflearn                   0.3.2                    pypi_0    pypi
+theano                    1.0.4+34.g473d74ea4          pypi_0    pypi
+thinc                     7.3.1                    pypi_0    pypi
+tifffile                  2019.7.26.2              pypi_0    pypi
+tinycss2                  1.0.2                    pypi_0    pypi
+tk                        8.6.8                hbc83047_0  
+tokenizers                0.0.11                   pypi_0    pypi
+toolz                     0.10.0                     py_0  
+torch                     1.6.0.dev20200528          pypi_0    pypi
+torchaudio                0.4.0                      py36    pytorch
+torchtext                 0.5.0                    pypi_0    pypi
+torchvision               0.7.0.dev20200528          pypi_0    pypi
+tornado                   5.0.2                    pypi_0    pypi
+tpot                      0.11.1                   pypi_0    pypi
+tqdm                      4.42.1                     py_0  
+trackml                   0.1.12                   pypi_0    pypi
+traitlets                 4.3.3                    py36_0  
+traittypes                0.2.1                    pypi_0    pypi
+transformers              2.4.1                    pypi_0    pypi
+trueskill                 0.4.5                    pypi_0    pypi
+tsfresh                   0.14.1                   pypi_0    pypi
+typed-ast                 1.4.1            py36h7b6447c_0  
+typing                    3.6.4                    py36_0  
+typing-extensions         3.7.4.1                  pypi_0    pypi
+tzlocal                   2.0.0                    pypi_0    pypi
+ujson                     1.35             py36h14c3975_0  
+umap-learn                0.3.10                   pypi_0    pypi
+unicodecsv                0.14.1                   py36_0  
+unidecode                 1.1.1                    pypi_0    pypi
+unixodbc                  2.3.7                h14c3975_0  
+update-checker            0.16                     pypi_0    pypi
+uritemplate               3.0.1                    pypi_0    pypi
+urllib3                   1.25.8                   py36_0  
+urwid                     2.1.0                    pypi_0    pypi
+vecstack                  0.4.0                    pypi_0    pypi
+vega3                     0.13.0                   pypi_0    pypi
+vida                      0.3                      pypi_0    pypi
+visvis                    1.12.2                   pypi_0    pypi
+vowpalwabbit              8.5.0                    pypi_0    pypi
+vtk                       8.1.2                    pypi_0    pypi
+wand                      0.5.3                    pypi_0    pypi
+wandb                     0.8.27                   pypi_0    pypi
+wasabi                    0.6.0                    pypi_0    pypi
+watchdog                  0.10.2                   py36_0  
+wavio                     0.0.4                    pypi_0    pypi
+wcwidth                   0.1.8                      py_0  
+webencodings              0.5.1                    py36_1  
+websocket-client          0.57.0                   pypi_0    pypi
+werkzeug                  1.0.0                      py_0  
+wfdb                      2.2.1                    pypi_0    pypi
+wheel                     0.34.2                   py36_0  
+widgetsnbextension        3.5.1                    py36_0  
+word2number               1.1                      pypi_0    pypi
+wordbatch                 1.4.4                    pypi_0    pypi
+wordcloud                 1.6.0                    pypi_0    pypi
+wordsegment               1.3.1                    pypi_0    pypi
+wrapt                     1.11.2           py36h7b6447c_0  
+wurlitzer                 2.0.0                    py36_0  
+xarray                    0.15.0                   pypi_0    pypi
+xgboost                   0.90                     pypi_0    pypi
+xlrd                      1.2.0                      py_0  
+xlsxwriter                1.2.7                      py_0  
+xlwt                      1.3.0                    py36_0  
+xvfbwrapper               0.2.9                    pypi_0    pypi
+xxhash                    1.3.0                    pypi_0    pypi
+xz                        5.2.4                h14c3975_4  
+yaml                      0.1.7                had09818_2  
+yapf                      0.28.0                     py_0  
+yellowbrick               1.0.1                    pypi_0    pypi
+zeromq                    4.3.1                he6710b0_3  
+zict                      1.0.0                      py_0  
+zipp                      2.2.0                      py_0  
+zlib                      1.2.11               h7b6447c_3  
+zstd                      1.3.3                h84994c4_0  
