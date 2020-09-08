@@ -1,0 +1,21 @@
+.
+./exp
+./.ipynb_checkpoints
+
+Directories for the data and models (not in this git), the names can be changed and reflected in config.json:
+/workspace/nvme
+/workspace/nvme/features
+/workspace/nvme/train
+/workspace/nvme/jpeg/train
+/workspace/nvme/jpeg_small/train
+/workspace/nvme/jpeg900/train
+/workspace/nvme/ISIC_2019
+/workspace/nvme/ISIC_2019/train
+/workspace/nvme/ISIC_2019/train_small
+/workspace/nvme/ISIC_2019/train900
+workspace/hd/models
+/workspace/hd/outputs
+/workspace/nvme/jpeg/test
+/workspace/nvme/jpeg_small/test
+/workspace/nvme/jpeg900/test
+/workspace/nvme/test
