@@ -119,11 +119,11 @@ Beware Running the full notebook can take a couple of days, depending on the mod
 
 Prepare feature vectors 
 --------------------------
-After the models are trained you’ll need to prepare the feature vectors for training using the notebook ‘calculate features.ipynd’.
+After the models are trained you’ll need to prepare the feature vectors for training using the notebook ‘calculate features.ipynb’.
 
 The 2nd cell holds the configuration as before.
 
-(you don’t need to prepare features for the test data, as it was already done in the previous stage)
+you don’t need to prepare features for the test data, as it was already done in the previous stage, but if you didn't run the training notebook and want to prepare the test features, you can use 'calculate test_features.ipynb'
 
 TrainingTransformer models 
 --------------------------
