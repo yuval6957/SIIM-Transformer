@@ -201,7 +201,7 @@ The output of this network is a matrix of size N*C where N - the number of image
 
 #### Limit the input size
 
-A transformer can be trained on different number of feature vectors, by using padding. But when the range of numbers is very large, from a couple of hundred images for some patients to a handful for others, this may cause some implementation issues (like in calculating the loss). To simplify these issues, we limited N to 32 feature vectors, and for each patient we randomly divided the images to groups of size up to 32. 
+A transformer can be trained on different number of feature vectors, by using padding. But when the range of numbers is very large, from a couple of hundred images for some patients to a handful for others, this may cause some implementation issues (like in calculating the loss). To simplify these issues, we limited N to 24 feature vectors, and for each patient we randomly divided the images to groups of size up to 24. 
 
 This might degrade the prediction as the most “similar” images might accidentally fall into different groups, but as we use TTA, this issue is almost solved. 
 
